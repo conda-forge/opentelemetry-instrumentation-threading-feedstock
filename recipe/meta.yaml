@@ -1,5 +1,5 @@
 {% set name = "opentelemetry-instrumentation-threading" %}
-{% set version = "0.52b1" %}
+{% set version = "0.53b0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/opentelemetry_instrumentation_threading-{{ version }}.tar.gz
-  sha256: f69c57c83dfa6b69aa50fd76f0f77833bd4f430799ee0e1df214f9b46256c820
+  sha256: fbaa056f4741f7833cca33ae78b8ceb92614f06c29e239ce30e6ce0519b65fc1
 
 build:
   noarch: python
