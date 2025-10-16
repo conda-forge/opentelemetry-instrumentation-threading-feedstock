@@ -35,9 +35,9 @@ test:
     - python {{ python_min }}
 
 about:
-  home: https://www.traceloop.com/openllmetry
-  dev_url: https://github.com/traceloop/openllmetry
-  doc_url: https://www.traceloop.com/docs/openllmetry/introduction
+  home: https://opentelemetry.io
+  dev_url: https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-threading
+  doc_url: https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/threading/threading.html
   summary: Thread context propagation support for OpenTelemetry
   license: Apache-2.0
   license_file: LICENSE
