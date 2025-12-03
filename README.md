@@ -3,15 +3,15 @@ About opentelemetry-instrumentation-threading-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/opentelemetry-instrumentation-threading-feedstock/blob/main/LICENSE.txt)
 
-Home: https://www.traceloop.com/openllmetry
+Home: https://opentelemetry.io
 
 Package license: Apache-2.0
 
 Summary: Thread context propagation support for OpenTelemetry
 
-Development: https://github.com/traceloop/openllmetry
+Development: https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-threading
 
-Documentation: https://www.traceloop.com/docs/openllmetry/introduction
+Documentation: https://opentelemetry-python-contrib.readthedocs.io/en/latest/instrumentation/threading/threading.html
 
 Current build status
 ====================
